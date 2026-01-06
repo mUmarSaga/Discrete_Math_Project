@@ -7,7 +7,8 @@ Educational tool converting Boolean expressions to NAND/NOR circuits. Demonstrat
 [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://www.microsoft.com/windows)
 
 A comprehensive Boolean circuit synthesis tool that converts Boolean expressions into equivalent circuits using only universal gates (NAND or NOR). Demonstrates gate completeness theory with comparative efficiency analysis and truth table verification.
-
+![image alt](mainscreen.PNG)
+![image alt](Capture2.PNG)
 
 
 ## 🎯 Features
