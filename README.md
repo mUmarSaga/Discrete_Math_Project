@@ -251,5 +251,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 📫 **Questions?** Open an issue or reach out via email.
 
 🔗 **My Other Projects:**
-- [Digital Logic Simulator](https://github.com/mUmarSaga/Ben_eater_sap_1)
+- [8 bit breadboard computer](https://github.com/mUmarSaga/Ben_eater_sap_1)
 
