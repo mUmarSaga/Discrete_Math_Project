@@ -40,7 +40,7 @@ A comprehensive Boolean circuit synthesis tool that converts Boolean expressions
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/universal-gate-synthesis.git
+git clone https://github.com/mUmarSaga/Discrete_Math_Project.git
 cd universal-gate-synthesis
 
 # Compile
@@ -226,9 +226,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**[Your Name]**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@uet.edu.pk
+**mUmar**
+- GitHub: [mUmarSaga](https://github.com/mUmarSaga)
+- Email: umar342342342@gmail.com
 - University: UET Lahore
 
 ## 🙏 Acknowledgments
