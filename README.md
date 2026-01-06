@@ -250,7 +250,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 📫 **Questions?** Open an issue or reach out via email.
 
-🔗 **Related Projects:**
-- [Digital Logic Simulator](https://github.com/example/logic-sim)
-- [Boolean Expression Parser](https://github.com/example/bool-parser)
-- [Circuit Optimization Tools](https://github.com/example/circuit-opt)
+🔗 **My Other Projects:**
+- [Digital Logic Simulator](https://github.com/mUmarSaga/Ben_eater_sap_1)
+
