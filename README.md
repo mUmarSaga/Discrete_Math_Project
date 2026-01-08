@@ -1,5 +1,3 @@
-# Discrete_Math_Project
-Educational tool converting Boolean expressions to NAND/NOR circuits. Demonstrates universal gate completeness with comparative analysis, truth table verification, and step-by-step visualization.
 # Universal Gate Synthesis Tool
 
 [![C++](https://img.shields.io/badge/C++-17-blue.svg)](https://isocpp.org/)
@@ -41,7 +39,7 @@ A comprehensive Boolean circuit synthesis tool that converts Boolean expressions
 ```bash
 # Clone the repository
 git clone https://github.com/mUmarSaga/Discrete_Math_Project.git
-cd universal-gate-synthesis
+cd Discrete_Math_Project
 
 # Compile
 g++ main.cpp -o synth.exe
