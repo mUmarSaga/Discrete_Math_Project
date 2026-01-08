@@ -5,8 +5,8 @@
 [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://www.microsoft.com/windows)
 
 A comprehensive Boolean circuit synthesis tool that converts Boolean expressions into equivalent circuits using only universal gates (NAND or NOR). Demonstrates gate completeness theory with comparative efficiency analysis and truth table verification.
-![image alt](mainscreen.PNG)
-![image alt](Capture2.PNG)
+![image alt](Photos/mainscreen.PNG)
+![image alt](Photos/Capture2.PNG)
 
 
 ## 🎯 Features
@@ -66,7 +66,7 @@ g++ main.cpp -o synth.exe
    
    Example:    (A AND B) OR (NOT C)
    ```
-
+![image alt](Photos/w.jfif)
 4. View results and gate counts
 
 ## 📚 Examples
